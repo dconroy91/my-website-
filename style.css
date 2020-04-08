@@ -1,0 +1,11 @@
+section {
+    border: 1px solid black;
+    width: 10em;
+    height: 10em;
+    background-color: gold;
+    color: blue;
+}
+article {
+    height: 75vh;
+    background-image: url(https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/931/524/JoeExotic1.jpg?ve=1&tl=1);
+}
